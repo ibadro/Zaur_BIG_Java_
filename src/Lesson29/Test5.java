@@ -1,10 +1,8 @@
 
 package Lesson29;
-
 import java.util.ArrayList;
 // импорт предикейт
 import java.util.function.*;
-
 public class Test5 {
     
     // использовние лямбы и интерфейса предикейт
