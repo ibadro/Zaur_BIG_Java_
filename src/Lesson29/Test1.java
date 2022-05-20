@@ -1,34 +1,23 @@
 
 package Lesson29;
-
 import java.util.ArrayList;
-
 public class Test1 {
-    
 }
-
 class Student{
-
     String name;
     char sex;
     int age;
     int course;
-    double avgGrade;   
-    
+    double avgGrade;
     Student(String name, char sex, int age, int course, double avgGrade){
-    
         this.name = name;
         this.sex = sex;
         this.age = age;
         this.course = course;
         this.avgGrade = avgGrade;
-    
     }
-
 }
-
 class StrudentInfo{
-
     void printStudent(Student st){
         System.out.println("Name: " + st.name + ", sex: " + st.sex + ", age: " + st.age + ", course: " + st.course + ", average grade: " + st.avgGrade);
     }
