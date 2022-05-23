@@ -1,49 +1,31 @@
 
 package Lesson29;
-
 import java.util.ArrayList;
 import java.util.function.*; // Predicate
-
 public class HW29 {
-
 }
-
 class Employee{
-
     String name;
     String department;
     int salary;
-    
     Employee(String name, String department, int salary){
-        
         this.name = name;
         this.department = department;
         this.salary = salary;
-        
     }
-
 }
-
 class TestEmployee{
-
     static void printEmployee(Employee e){
         System.out.println("Name: " + e.name + ", department: " + e.department + ", salary: " + e.salary);
     }
-    
     static void filterEmployee(ArrayList <Employee> list, Predicate <Employee> e){ // using of Predicate
-        
         for(Employee emp:list){
-        
             if (e.test(emp)) { // defaul method test() of interface Predicate
                 printEmployee(emp);
             }
-        
         }
-        
     }
-    
     public static void main(String[] args) {
-        
         ArrayList <Employee> list = new ArrayList<>();
         Employee emp1 = new Employee("Victor", "IT", 3400);
         Employee emp2 = new Employee("Egor", "Security", 450);
@@ -59,7 +41,6 @@ class TestEmployee{
         list.add(emp5);
         list.add(emp6);
         list.add(emp7);
-        
         // using Lambda
         filterEmployee(list, (Employee e) -> {return (e.department.equals("IT") && e.salary > 200);});
         System.out.println("***");
