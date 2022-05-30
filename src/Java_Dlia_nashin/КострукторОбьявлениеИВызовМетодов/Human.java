@@ -1,5 +1,5 @@
 
-package Java_Dlia_nashin.Lesson5;
+package Java_Dlia_nashin.КострукторОбьявлениеИВызовМетодов;
 
 
 public class Human {

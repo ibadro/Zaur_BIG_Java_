@@ -31,7 +31,7 @@ class BankAccountTest {
         // присваиваем объекту MyAccount name, тк name String, мы можем присвоить ему "Dmitry"
         
         MyAccount.balance = 12.35;
-        // присваиваем объекту MyAccount balace, тк balace double, мы можем присвоить ему "12.35"
+        // присваиваем объекту MyAccount balance, тк balance double, мы можем присвоить ему "12.35"
              
         System.out.println(MyAccount.id);
         System.out.println(MyAccount.name);

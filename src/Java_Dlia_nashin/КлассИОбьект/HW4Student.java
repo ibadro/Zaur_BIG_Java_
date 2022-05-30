@@ -20,7 +20,7 @@ class HW4StudentTest {
     
         HW4Student studentA = new HW4Student();
         HW4Student studentB = new HW4Student();
-        HW4Student studentC = new HW4Student();       
+        HW4Student studentC = new HW4Student();
         
         studentA.ticketNumber = 75534;
         studentB.ticketNumber = 75894;
