@@ -7,11 +7,11 @@ public class HW2 {
         byte b1 = 12;
         byte b2 = 0b1100; // 0bнужноечисло - двоичная
         byte b3 = 014; // 0нужночисло - восьмиричная
-        byte b4 = 0xC; // 0xнужноечисло - шестнадцатиричная
+        byte b4 = 0xC; // 0x нужное число - шестнадцатиричная
         
-        System.out.print(b1);
-        System.out.print(b2);
-        System.out.print(b3);
+        System.out.println(b1);
+        System.out.println(b2);
+        System.out.println(b3);
         System.out.println(b4);
         
         short s1 = 1300;

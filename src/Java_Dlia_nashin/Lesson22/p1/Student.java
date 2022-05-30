@@ -2,7 +2,7 @@
 package Java_Dlia_nashin.Lesson22.p1;
 
 import Java_Dlia_nashin.Lesson22.Human2;
-import Java_shernii_poias.Lesson1.Lesson22.*;
+//import Java_shernii_poias.Lesson1.Lesson22.*;
 
 class Student extends Human2 {
     

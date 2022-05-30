@@ -3,7 +3,7 @@ package Java_Dlia_nashin.Lesson10;
 
 // import java.lang.* - это импортируется по дефолту, в этом пакете такие классы , как String и тд, благодаря нему, мы можем обращаться к классу String
 import Java_Dlia_nashin.Lesson9.Student;
-import Java_shernii_poias.Lesson1.Lesson9.*;
+//import Java_shernii_poias.Lesson1.Lesson9.*;
 
 // импорт не импортирует подпакеты, подпакеты нужно тоже испортировать!!!
 
