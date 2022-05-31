@@ -1,5 +1,5 @@
 
-package Java_Dlia_nashin.Lesson2;
+package Java_Dlia_nashin.ПримитивныеДанные;
 
 public class HW2 {
     public static void main (String [] args) {

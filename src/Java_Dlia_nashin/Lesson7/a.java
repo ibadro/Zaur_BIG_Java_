@@ -1,7 +1,7 @@
 
 package Java_Dlia_nashin.Lesson7;
 
-import Java_Dlia_nashin.Lesson6.HW6Student;
+import Java_Dlia_nashin.ПерезагрузкаМетодовИКонструкторов.HW6Student;
 
 public class a {
     

@@ -1,5 +1,5 @@
 
-package Java_Dlia_nashin.Lesson6;
+package Java_Dlia_nashin.ПерезагрузкаМетодовИКонструкторов;
 
 public class Test1 {
     
