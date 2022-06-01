@@ -1,5 +1,5 @@
 
-package Java_Dlia_nashin.Lesson7;
+package Java_Dlia_nashin.ПакетИМодификаторыВидимости;
 
 
 public class HWEmployeeTest {

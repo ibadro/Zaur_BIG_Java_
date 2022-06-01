@@ -1,8 +1,8 @@
 
-package Java_Dlia_nashin.Lesson7_1;
+package Java_Dlia_nashin.ПакетИМодификаторыВидимости1;
 
 
-import Java_Dlia_nashin.Lesson7.HW7Employee;
+import Java_Dlia_nashin.ПакетИМодификаторыВидимости.HW7Employee;
 
 public class HW7EmployeeFromOtherPackage {
     
