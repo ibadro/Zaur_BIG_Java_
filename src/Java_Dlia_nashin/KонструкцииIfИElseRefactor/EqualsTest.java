@@ -1,5 +1,5 @@
 
-package Java_Dlia_nashin.Lesson12;
+package Java_Dlia_nashin.KонструкцииIfИElseRefactor;
 
 
 public class EqualsTest {
