@@ -1,5 +1,5 @@
 
-package Java_Dlia_nashin.Lesson13;
+package Java_Dlia_nashin.КонструкцияSwitch;
 
 public class Test1 {
     

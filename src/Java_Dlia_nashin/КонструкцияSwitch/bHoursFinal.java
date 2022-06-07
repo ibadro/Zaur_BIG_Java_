@@ -1,20 +1,22 @@
 
-package Java_Dlia_nashin.Lesson13;
+package Java_Dlia_nashin.КонструкцияSwitch;
 
-public class bHoursN {
+public class bHoursFinal {
     
     public static void main(String[] args) {
         
-        int day = 1;
+        int a = 5;
+        final int b = 10; // делаем ее константой, чтобы прокинуть в кейс
+        final int c = 15;
         String message = "rabotaet do 18/00";
         
         switch(1) { // char, byte, int, short, String только эти типы данных могут быть внутри скобок
         
-            case 1:
+//            case a: ошибка - НЕЛЬЗЯ ПРОКИДЫВАТЬ ОБЫЧНУЮ ПЕРЕМЕННУЮ В КЕЙС
+//
+            case b: // можно прокинуть в кейс, тк б - файнал (константа)
 
-            case 2:
-
-            case 3:
+            case b + c: // можно прокинуть выражение в кейс, тк б и с - файнал (константа)
 
             case 4:
 
