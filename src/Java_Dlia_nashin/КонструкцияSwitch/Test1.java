@@ -2,26 +2,14 @@
 package Java_Dlia_nashin.КонструкцияSwitch;
 
 public class Test1 {
-    
-     
-    
 }
-
-
 class Student {
-
     int grade;
-    
     Student(int grade) {
-    
         this.grade = grade;
-        
     }
-    
     public static void main(String[] args) {
-        
-        Student st1 = new Student(1);
-        
+        Student st1 = new Student(4 );
 //        if(st1.grade == 2) {
 //            System.out.println("student ploh");
 //        } else if(st1.grade == 3) {
@@ -34,14 +22,14 @@ class Student {
 //            System.out.println("ocenka neverna");
 //        }
 
-        
-        switch(st1.grade) {
-        
-            case 2: 
+
+        switch (st1.grade) {
+
+            case 2:
                 System.out.println("student ploh");
                 break; // выход  из тела свича
             case 3:
-                System.out.println("student ploh, no mozhno podnazhat"); 
+                System.out.println("student ploh, no mozhno podnazhat");
                 break;
             case 4:
                 System.out.println("student molodec");
@@ -49,12 +37,12 @@ class Student {
             case 5:
                 System.out.println("ocenka neverna");
                 break;
-            
+
             default: // срабатывает, когда st1.grade не равна ни одному кейсу и в случаях если не стоят брейки
-            System.out.println("ocenka neverna");    
-             
+                System.out.println("ocenka neverna");
+
         }
-        
+
     }
-    
+
 }

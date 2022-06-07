@@ -1,8 +1,8 @@
 
-package Java_Dlia_nashin.Lesson14;
+package Java_Dlia_nashin.ЦиклForBreakContinue;
 
-public class Test6 {
-    
+public class  Test6 {
+    // вывести четные числа до 30
     public static void main(String[] args) {
         
         for(int i = 1; i <= 30; i++) {

@@ -1,12 +1,12 @@
 
-package Java_Dlia_nashin.Lesson14;
+package Java_Dlia_nashin.ЦиклForBreakContinue;
 
 
 public class Test2 {
     
     public static void main(String[] args) {
         
-        for(int i = 1, k = 3; i < 11; i++) { // можно объяслять несколько переменных внутри
+        for(int i = 1, k = 3; i < 11; i++) { // можно объявлять несколько переменных внутри
             System.out.println(i);
 //            System.out.println(k);
         }
