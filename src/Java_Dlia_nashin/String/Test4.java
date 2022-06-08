@@ -1,5 +1,5 @@
 
-package Java_Dlia_nashin.Lesson16;
+package Java_Dlia_nashin.String;
 
 public class Test4 {
     

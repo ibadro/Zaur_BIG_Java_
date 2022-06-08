@@ -1,5 +1,5 @@
 
-package Java_Dlia_nashin.Lesson16;
+package Java_Dlia_nashin.String;
 
 //  Создайте клавсс, в котором создайте методй емайл. Данный метод должен принимать в инпут 1 String параметр.
 //  Данный парпметр должен содеражать в себе емейлы в следующем виде ya@yahoo.com; ona@gmail.com;  т е
