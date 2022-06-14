@@ -5,10 +5,10 @@ public class Test3 {
     
     public static void main(String[] args) {
         
-        String s1 = new String("abcdefg__abc");
+        String s1 = new String("abcdefg__abcуцкцук");
         
         String s2 = s1.substring(9); // присвой String s2 подстроку, которая начинается с 9 индекса строки s1, то есть "abc"
-        System.out.println(s2); // abc
+        System.out.println(s2); // abcуцкцук
          
         
         String s3 = new String("abcdefg__abc__abcdefg");

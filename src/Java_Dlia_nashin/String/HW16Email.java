@@ -13,9 +13,9 @@ public class HW16Email {
 
     static void makeEmailPerfect(String email) {
     
-        int indexDog = 0; // @
-        int indexDot = 0; // .
-        int indexSem = 0; // ;
+        int indexDog = 0; // позиция символа @
+        int indexDot = 0; // позиция символа .
+        int indexSem = 0; // позиция символа ;
         
         for(; indexSem < email.length() - 1; indexSem++) { // cause index is beginning from 0
             

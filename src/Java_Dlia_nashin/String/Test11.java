@@ -1,7 +1,7 @@
 
 package Java_Dlia_nashin.String;
 
-public class Test11 {
+public class  Test11 {
     
     public static void main(String[] args) {
         

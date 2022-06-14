@@ -19,9 +19,7 @@ public class Test1 {
         // его можно присвоить переменной типа данных чар
         System.out.println(s2.charAt(0)); // H
         // можно и так вызвать метод чарЭт
-        
-        
-        
+
         String s3 = new String("привет, как дела д привет?");
         int a3 = s3.indexOf("д"); // узнаем индекс конкретного чара
         System.out.println(a3); // 12
