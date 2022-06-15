@@ -12,4 +12,5 @@ package Java_Dlia_nashin.Alex;
          9
           10*/
 public class МассивПробелыРавныЭлементуКоторыйВыводим {
+
 }
