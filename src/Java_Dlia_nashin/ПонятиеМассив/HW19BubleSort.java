@@ -5,7 +5,7 @@ import java.util.Arrays;
 
 //Создайте класс, в котором создайте метода сортировка. Инпут параметром данного метода будет одномерный массив
 //типа Int. Метод должен возвращать уже отсjртированный по возрастанию массив. Продемонстрируйте метод.
-public class HW19BubleSort {
+public class  HW19BubleSort {
 
     // bubble sort
     public static void bubbleSort(int[] arr) {
