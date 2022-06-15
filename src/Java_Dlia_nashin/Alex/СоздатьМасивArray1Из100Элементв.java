@@ -6,4 +6,5 @@ Array1[1] = 2
 Array2[2] = 4
 */
 public class СоздатьМасивArray1Из100Элементв {
+
 }
