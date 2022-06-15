@@ -11,15 +11,15 @@ public class HW19SelectionSort {
     
         for (int i = 0; i < arr.length; i++) {
             
-            min = arr[i]; // by defaul min = first element of array
-            index = i; // by default index = first index of array
+            min = arr[i]; // по умолчанию in = первый элемент массива
+            index = i; // по умолчанию index = первый индекс массива
             
             for (int j = i + 1 ; j < arr.length; j++) { // j is always more i on 1 index
                 
-                if (arr[j] < min) { // if the next item from array is more than previous
+                if (arr[j] < min) { // если следующий элемент массива больше предыдущего
                     
-                    min = arr[j]; // min changes value on the next item
-                    index = j; // index chanhes value on next index 
+                    min = arr[j]; // min изменяет значение следующего элемента
+                    index = j; // индекс изменяет значение на следующем индексе
                     
                 }
                 

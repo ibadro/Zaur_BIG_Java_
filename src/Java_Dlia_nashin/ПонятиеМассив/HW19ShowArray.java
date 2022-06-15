@@ -10,7 +10,7 @@ public class HW19ShowArray {
     static void showArray(String arr[][]) {
 
         System.out.print("{ ");
-        for (int i = 0; i < arr.length; i++) {
+        for (int i = 0; i < arr.length; i++) { //
 
             System.out.print("{ ");
             for (int j = 0; j < arr[i].length; j++) {
