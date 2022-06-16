@@ -11,7 +11,7 @@ public class Test8 {
         StringBuilder sb2 = new StringBuilder("loco");
         
         // Arrays.asList()
-        StringBuilder [] array = {sb1, sb2};
+        StringBuilder [] array = {sb1, sb2, sb2, sb2, sb2, sb2, sb2, sb2};
         List <StringBuilder> list = Arrays.asList(array);
         
         System.out.println(list); // [hobo, loco]

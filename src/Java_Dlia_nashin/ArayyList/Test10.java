@@ -21,11 +21,7 @@ public class Test10 {
         list1.add(s1);
         list1.add(s4);
         list1.add(s2);
-        System.out.println("");
-        Collections.sort(list1);
-        System.out.println(Arrays.asList(list1));
-        
-        
+
         // метод iterator класса Iterator выводит все итерации 
         Iterator <String> it = list1.iterator();
         while(it.hasNext()){ // hasNext() - смотрит, есть след элемент или нет
