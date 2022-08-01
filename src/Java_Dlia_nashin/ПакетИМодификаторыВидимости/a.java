@@ -1,7 +1,7 @@
 
 package Java_Dlia_nashin.ПакетИМодификаторыВидимости;
 
-import Java_Dlia_nashin.ПерезагрузкаМетодовИКонструкторов.HW6Student;
+import Java_Dlia_nashin.L06.ПерезагрузкаМетодовИКонструкторов.HW6Student;
 
 public class a {
     
