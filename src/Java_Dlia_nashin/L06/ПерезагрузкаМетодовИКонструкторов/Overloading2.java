@@ -18,7 +18,7 @@ class Overloading2 {
     // этот код не пропустит компилятор, тк не важно какой стоит аксес модефаер или реторн тайп
     // важны лишь типы данных в параметрах и их количество, это не должно совпадать!!!!
 }
-class Overloading2Test {
+class  Overloading2Test {
     public static void main (String [] args) {
         Overloading2 over2 = new Overloading2();
         int a = over2.sum(5, 7);

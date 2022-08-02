@@ -2,7 +2,7 @@
 package Java_Dlia_nashin.ПакетИМодификаторыВидимости1;
 
 
-import Java_Dlia_nashin.ПакетИМодификаторыВидимости.HW7Employee;
+import Java_Dlia_nashin.L07.ПакетИМодификаторыВидимости.HW7Employee;
 
 public class HW7EmployeeFromOtherPackage {
     

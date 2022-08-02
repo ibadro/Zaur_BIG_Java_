@@ -1,7 +1,7 @@
 
 package Java_Dlia_nashin.L06.ПерезагрузкаМетодовИКонструкторов;
 
-public class Employee {
+public class  Employee {
     Employee (String surname2, int age2) {
         surname = surname2;
         age = age2;
