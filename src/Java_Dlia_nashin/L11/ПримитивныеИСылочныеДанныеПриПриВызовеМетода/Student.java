@@ -8,6 +8,7 @@ public class Student {
     Student(String name, int course, double grade) {
     this.name = name;
     this.course = course;
+    this.grade=grade;
     }
     public static void swap(Student s1, Student s2) { // статик потому что, мне не нужно создавать новых студентов
         // мы работаем с уже созданными, и этим методом мы поменяем ссылку студента 1 на ссылку студента 2 и наоборот

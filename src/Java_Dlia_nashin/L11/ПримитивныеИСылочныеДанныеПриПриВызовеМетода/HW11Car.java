@@ -15,8 +15,8 @@ public class HW11Car {
     }
 }
 class CarTest {
-    void changedoorsCount(HW11Car car1, int doorsCount1) {
-        car1.doorsCount = doorsCount1;
+    void changedoorsCount(HW11Car c1, int doorsCount1) {
+        c1.doorsCount = doorsCount1;
     }
     void changeColor(HW11Car car1, HW11Car car2) {
         String color3 = car1.color;
