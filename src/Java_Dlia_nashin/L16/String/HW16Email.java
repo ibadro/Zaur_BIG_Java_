@@ -9,20 +9,20 @@ package Java_Dlia_nashin.L16.String;
 //mail
 //gmail
 //Продемонстрируйте метод
-public class HW16Email {
+public class  HW16Email {
 
     static void makeEmailPerfect(String email) {
     
-        int indexDog = 0; // позиция символа @
-        int indexDot = 0; // позиция символа .
-        int indexSem = 0; // позиция символа ;
+        int a = 0; // позиция символа @
+        int b = 0; // позиция символа .
+        int c = 0; // позиция символа ;
         
-        for(; indexSem < email.length() - 1; indexSem++) { // cause index is beginning from 0
+        while(c < email.length()   -1) { // cause index is beginning from 0
             
-            indexDog = email.indexOf('@', indexSem);
-            indexDot = email.indexOf('.', indexSem);
-            indexSem = email.indexOf(';', indexSem + 1); // to skip the same ; and go ahead
-            System.out.println(email.substring(indexDog + 1, indexDot)); // +1 to skip @
+            a = email.indexOf('@', c);
+            b = email.indexOf('.', c);
+            c = email.indexOf(';', c + 1); // to skip the same ; and go ahead
+            System.out.println(email.substring(a + 1, b)); // +1 to skip @
             
         }
             
