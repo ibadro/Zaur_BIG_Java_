@@ -59,7 +59,7 @@ public class Test1 {
         System.out.println(ld5); // 2015-05-28
         
         // такие же методы есть у LocalTime
-        // plus / minus hours, minutes ....
+        // plus / minus hours, minutes ....т
         
         
         // LocalTime имеет оверлодед метод of()
