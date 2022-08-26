@@ -70,7 +70,7 @@ final class Student implements Comparable<Student>{
     }
 
     @Override
-    public int compareTo(Student o) {
+    public int compareTo(Student o)  {
         return this.name.compareTo(o.name);
     }
 
