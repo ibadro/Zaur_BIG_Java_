@@ -1,5 +1,6 @@
 package Alishev.Generics1;
 
+<<<<<<< HEAD
 import java.util.ArrayList;
 import java.util.List;
 
@@ -35,3 +36,9 @@ public class Test {
 }
 
 
+=======
+public class Test {
+
+
+}
+>>>>>>> origin/master
