@@ -1,4 +1,8 @@
 package Zadania;
+
+
+
+
 /*Создать проект, имя operations
 	В методы main создать все численные переменные
 	Инициализировать их начальными значениями
@@ -7,6 +11,7 @@ package Zadania;
 	Результаты вывести в консоль*/
 public class operations {
     public static void main(String[] args) {
+
 
     }
 
