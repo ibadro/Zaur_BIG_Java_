@@ -11,11 +11,11 @@ public class HashMapEx1 {
         map1.put(15369, "Nikolay Petrov");
         map1.putIfAbsent(1000, "Nikolay Petrov");
 
-        System.out.println(map1);
-        System.out.println(map1.get(1000));
-        System.out.println(map1.get(1001));
-        map1.remove(15369);
-        System.out.println(map1);
+      //  System.out.println(map1);
+      //  System.out.println(map1.get(1000));
+     //   System.out.println(map1.get(1001));
+   //     map1.remove(15369);
+    //    System.out.println(map1);
         System.out.println(map1.containsValue("Ivan Pulov"));
         System.out.println(map1.containsKey(600));
         System.out.println(map1.keySet());

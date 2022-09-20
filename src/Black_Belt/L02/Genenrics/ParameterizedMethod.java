@@ -1,5 +1,7 @@
 package Black_Belt.L02.Genenrics;
+
 import java.util.ArrayList;
+
 public class ParameterizedMethod {
     public static void main(String[] args) {
         ArrayList<Integer> al1 = new ArrayList<>();
@@ -20,7 +22,7 @@ public class ParameterizedMethod {
 }
 
 class GetMethod {
-    public static<T> T getSecondElement(ArrayList<T> al) {
+    public static <T> T getSecondElement(ArrayList<T> al) {
         return al.get(1);
     }
 }

@@ -3,7 +3,7 @@ package Black_Belt.Collection;
 import java.util.Arrays;
 import java.util.List;
 
-public class ArrayListMethod4 {
+public class  ArrayListMethod4 {
 
     public static void main(String[] args) {
 

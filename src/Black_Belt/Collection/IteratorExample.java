@@ -13,9 +13,9 @@ public class IteratorExample {
 
         Iterator<String> iterator  = arrayList1.iterator(); // повторитель
         while (iterator.hasNext()){
-             iterator.next();
-             iterator.remove();
-            //  System.out.println(iterator.next());
+          //   iterator.next();
+            //    iterator.remove();
+             System.out.println(iterator.next());
 
         }
         System.out.println(arrayList1);

@@ -16,13 +16,13 @@ public class ArrayListMethod1 {
         for (String str : arrayList) {
             System.out.println(str);
         }
-        System.out.println("********************");
+        System.out.println("********************1");
 
         //method get()
         for (int i = 0; i < arrayList.size(); i++) {
             System.out.println(arrayList.get(i));
         }
-        System.out.println("********************");
+        System.out.println("********************2");
 
         //method set()
         //в этом примере мы вставляем Rob на позицию 1
@@ -30,7 +30,7 @@ public class ArrayListMethod1 {
         for (String s : arrayList) {
             System.out.println(s);
         }
-        System.out.println("********************");
+        System.out.println("********************3");
 
         //method remove()
         //после удаления все элементы смещаются влево

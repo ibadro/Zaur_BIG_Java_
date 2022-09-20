@@ -9,6 +9,9 @@ public abstract class Participant {
         this.age = age;
     }
 
+    /**
+     * @return имя метода
+     */
     public String getName() {
         return name;
     }

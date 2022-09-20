@@ -13,25 +13,24 @@ public class HashCodeEx1 {
         map.put(st1, 7.5);
         map.put(st2, 8.7);
         map.put(st3, 9.2);
-//        System.out.println(map);
-//        System.out.println(map.containsKey(st1));
-//        System.out.println(st1.hashCode());
+ //      System.out.println(map);
+ //      System.out.println(map.containsKey(st1));
+//       System.out.println(st1.hashCode());
 //        st1.course=4;
 //        System.out.println(map.containsKey(st1));
 //        System.out.println(st1.hashCode());
 
-        Student st4 = new Student("Oleg", "Akulov", 3);
-        Student st5 = new Student("Ig", "Sidorov", 4);
-        boolean result = map.containsKey(st4);
-        System.out.println("result= " + result);
+ //       Student st4 = new Student("Oleg", "Akulov", 3);
+  //      Student st5 = new Student("Ig", "Sidorov", 4);
+ //       boolean result = map.containsKey(st4);
+ //       System.out.println("result= " + result);
        // System.out.println(st1.equals(st4));
-        System.out.println(st1.hashCode());
-        System.out.println(st5.hashCode());
-      /*  for (Map.Entry<Student,Double> entry:map.entrySet()) {
+ //       System.out.println(st1.hashCode());
+//        System.out.println(st5.hashCode());
+        for (Map.Entry<Student,Double> entry:map.entrySet()) {
             System.out.println(entry.getKey() + " : " + entry.getValue());
         }
         Map <Integer, String> map2 = new HashMap<>(16,0.75f);
-*/
     }
 }
 
