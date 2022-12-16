@@ -18,12 +18,6 @@ M
 O
 src/Kata/Calc/RomanNumbers.java,a\c\ac638201441dc9eb0516af84370dbe7b81131ed0
 H
-src/Задачи/Z1.java,5\a\5abfbb5ffddc94bf493cee311b34cec67026856c
-H
-src/Задачи/Z2.java,3\7\37624d2221203ce8c33cd7b7efe4f0b1d633bf44
-H
-src/Задачи/z3.java,5\a\5ade8b3ae2a9f6373184efa5c4ac83d983bd5368
-H
 src/Задачи/z4.java,2\5\25779ff441b77568fe570405eb2fab9171226696
 H
 src/Задачи/z5.java,4\b\4b0c14528fe4b3803571583fc4181bfbf6fff665
@@ -307,16 +301,12 @@ P
  src/Ot_prostogo/z1/OOP/Main.java,e\6\e69bab17cc6e3991711552e91e52e0ae115e7e64
 L
 src/Ot_prostogo/z1/main.java,4\f\4fd2ab0dcc9823e11fba13d09e2a08f05d4ace52
-b
-2src/Java_Dlia_nashin/L01/Введение/HW1.java,7\b\7b20214bfabd972d60cd2252eb743e03e5460a17
 u
 Esrc/Java_Dlia_nashin/L02/Примитивные_данные/HW2.java,c\0\c04603997170e83f51e50683c602811981912df4
 �
 Tsrc/Java_Dlia_nashin/L02/Примитивные_данные/PrimitiveDataTypes.java,6\5\659f8cb7ba140ca759370d287f9a066f84c1ed65
 �
 |src/Java_Dlia_nashin/L03/Арифмет_и_Лог_Операции_Сравнения_и_Примсваивания/HW3.java,2\0\20bf9ad0e036cd236ab5de3fb95e0e9a8bd2407b
-�
-�src/Java_Dlia_nashin/L03/Арифмет_и_Лог_Операции_Сравнения_и_Примсваивания/Lesson3.java,b\6\b63853df12cd654bea063f5f307ecf235bc84ddd
 �
 �src/Java_Dlia_nashin/L03/Арифмет_и_Лог_Операции_Сравнения_и_Примсваивания/Lesson3_2.java,9\d\9d1b5daa87e600d80991fb89e6b18df36675ad99
 �
@@ -353,8 +343,6 @@ lsrc/Java_Dlia_nashin/L05/КострукторОбьявлениеИВызовМ
 osrc/Java_Dlia_nashin/L05/КострукторОбьявлениеИВызовМетодов/HW5BankAccount.java,d\e\de363c069c45e8c3a45df1cc4536042c6c434441
 �
 fsrc/Java_Dlia_nashin/L06/ПерезагрузкаМетодовИКонструкторов/Test1.java,7\8\780b255929f5dfa7b14e4f6912ddc48c4121e6e5
-�
-isrc/Java_Dlia_nashin/L06/ПерезагрузкаМетодовИКонструкторов/Employee.java,8\a\8ad23fc1290ac5318197b8255d5b198b48a86f67
 �
 jsrc/Java_Dlia_nashin/L06/ПерезагрузкаМетодовИКонструкторов/Employee2.java,7\5\759b7c26e5ab24b13fa09a2684281dcf393424ff
 �
@@ -650,8 +638,6 @@ Osrc/Java_Dlia_nashin/L20/ArrayList/Все_о_классе_ArayyList2/Test3.java
 
 Osrc/Java_Dlia_nashin/L20/ArrayList/Все_о_классе_ArayyList2/Test4.java,2\0\205591c98839951c14528aa95e514c5486b63203
 e
-5src/Java_Dlia_nashin/L21/Garbag_Collection/Test1.java,5\8\58500414ccc173e57155c185ebc7dd12e6da78c8
-e
 5src/Java_Dlia_nashin/L21/Garbag_Collection/Test2.java,4\0\4022dd878febdc067e81c0f8aafb5db80fc29ce9
 e
 5src/Java_Dlia_nashin/L21/Garbag_Collection/Test3.java,9\1\911435caa54d22db0e61c9f7127d4cceec4bc569
@@ -801,8 +787,6 @@ Ksrc/Java_Dlia_nashin/L27/Исключения_и_Ошибки/Test11_2.java,5\
 Ksrc/Java_Dlia_nashin/L27/Исключения_и_Ошибки/Test11_3.java,9\d\9dd44e2530d21cb094490172e5457bbcca03de12
 {
 Ksrc/Java_Dlia_nashin/L27/Исключения_и_Ошибки/Test12_2.java,9\8\98d3a461d828ca72e09f0a834667b2aa97ca06fc
-f
-6src/Java_Dlia_nashin/L28/Дата_Время/HW28.java,2\e\2edbdfbf09c31b92536fb9d45ceacf856d45dbd3
 g
 7src/Java_Dlia_nashin/L28/Дата_Время/Test1.java,d\8\d823e864261310474f8581158b2073aa50151f88
 g
@@ -841,20 +825,10 @@ s
 Csrc/Java_Dlia_nashin/L29/Лямбда_выроженя/Tets4_2.java,8\0\80c9f7b2c04ba5a750df611a8e6e033f9d6a0d76
 t
 Dsrc/Java_Dlia_nashin/L29/Лямбда_выроженя/Lambdas2.java,0\7\07efb7b1e0904cfc50562f2d676f272ec581046c
-Q
-!src/Java_Dlia_nashin/Alex/w1.java,0\a\0aee53c5ffaca2a8ce16a8b666974beeff1a0195
 i
 9src/Java_Dlia_nashin/Alex/ЧетныеИндексы.java,8\d\8dcdd6fcc4ac343a79fc33e20d6def6efaea4012
 k
 ;src/Java_Dlia_nashin/Alex/ЧетныеЭлементы.java,e\b\eb8c0fd19a8b7cedf93e65982b48f02a2c20a563
-m
-=src/Java_Dlia_nashin/Alex/ВесьСписокЗадач.java,5\4\549a358c46f5075afe5fe2180e4ac80282425561
-�
-Qsrc/Java_Dlia_nashin/Alex/СоздатьМассивИз10Элементов.java,5\4\54bf53dc0efa6e637ab16ad33c76a39bbf72bb84
-�
-Tsrc/Java_Dlia_nashin/Alex/СоздатьМасивArray1Из100Элементв.java,9\d\9db04fbc9f36cebf2d1e7c1836bab6eed7e8d3cc
-�
-osrc/Java_Dlia_nashin/Alex/МассивПробелыРавныЭлементуКоторыйВыводим.java,2\f\2f98611da4bbe7aca5226c0c79bff60101aad4e1
 X
 (src/Java_Dlia_nashin/Lesson30/Test1.java,5\7\57419929213034c655d63c872d2eb7664e89989b
 X
@@ -867,8 +841,6 @@ W
 'src/Black_Belt/IO_NIO/FWauctoclose.java,5\9\59739d5fe4d49d03625874b505e19a121f74291d
 W
 'src/Black_Belt/IO_NIO/FileWriterEx.java,b\e\be83b4638dd5be714cd3c50ba9c37eab78944142
-X
-(src/Black_Belt/IO_NIO/DataStreamsEx.java,b\d\bd67b0bed1af245ed9719f2e61f8d3c07001df51
 V
 &src/Black_Belt/IO_NIO/CopyExImage.java,5\0\50dbcc5ee17812267aaa5e67ce0f238b10685115
 e
@@ -885,8 +857,6 @@ _
 /src/Black_Belt/IO_NIO/NIO/ChanellBufferEx2.java,d\0\d0ed354ad90ca8f642576114beeea185d1b0b3b6
 \
 ,src/Black_Belt/IO_NIO/ClassFile/FileExp.java,d\c\dc01e03dbe5ecd55459b84743e1cb1de72919d3e
-7
-src/key,4\d\4d758d3cefcec1238819d8b0f9518807329ddf5b
 >
 Zaur(Java).iml,a\8\a8affa13005c67c49e8b4c1c1f2683831a7c0302
 [
